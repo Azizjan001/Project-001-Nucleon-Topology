@@ -1,0 +1,4 @@
+Input: Radius = 0.84 fm, kS = 2.5
+Calculating Magnetic Moments...
+Result: -0.6817 (Theory) vs -0.6850 (Exp)
+Error: 0.48%
